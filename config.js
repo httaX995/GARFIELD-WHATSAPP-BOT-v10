@@ -5,10 +5,10 @@ function convertToBool(text, fault = 'true') {
 } 
  
 module.exports = {
-    SESSION_ID: "Xnodes~imJlFJrQ#me_HO7YNBg6qChD5PW8SxItq3tt88Wrv4lDsSMuG1Bw", // add your Session Id  Ex : Xnodes~e2R2VQgS#KFvTRMN77ZGFOYSKbA4mpNjwt7KBwiRFwRoG1-vi4"
-    AUTO_STATUS_SEEN: true,  // set to true or false for auto-seeing status
-    AUTO_STATUS_REPLY: true,  // set to true if you want auto-reply on status
-    AUTO_STATUS_REACT: true,  // set to true if you want auto-react on status
+    SESSION_ID: "Xnodes~zrxywbQR#HjSMfzlajeOavpESAbySs1YuEglZ6sj0Fqxn2QQtW2k", // add your Session Id  Ex : Xnodes~e2R2VQgS#KFvTRMN77ZGFOYSKbA4mpNjwt7KBwiRFwRoG1-vi4"
+    AUTO_STATUS_SEEN: false,  // set to true or false for auto-seeing status
+    AUTO_STATUS_REPLY: false,  // set to true if you want auto-reply on status
+    AUTO_STATUS_REACT: false,  // set to true if you want auto-react on status
     AUTO_STATUS_MSG: "GARFIELD-WHATSAPP-BOT-v10",  // set the auto-reply message for status replies
     PREFIX: ".",  // add your prefix for the bot
     BOT_NAME: "𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т",  // add bot name for the menu
@@ -16,7 +16,7 @@ module.exports = {
     CUSTOM_REACT: false,  // set to true for custom emoji reactions
     CUSTOM_REACT_EMOJIS: "⭐",  // choose custom react emojis
     DELETE_LINKS: false,  // set to true for automatic deletion of links without removing member
-    OWNER_NUMBER: "94711502119",  // add your bot owner number
+    OWNER_NUMBER: "94779510013",  // add your bot owner number
     OWNER_NAME: "@Sanku",  // add bot owner name
     DESCRIPTION: "©Ｐｏｗｅｒｅｄ ｂｙ Ｘｎｏｄｅｓ",  // add bot description
     ALIVE_IMG: "https://i.ibb.co/5g7VGhC9/Picsart-25-01-30-13-20-52-736.png",  // add image URL for alive message
